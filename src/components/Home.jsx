@@ -21,7 +21,8 @@ const Home = () => {
           Front End Developer
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
-          Actualmente soy estudiante en Academlo, una plataforma de aprendizaje para ser desarrollador Full Stack.
+          Actualmente estoy en un programa para ser Full Stack dentro de ACADEMLO, con el fin
+          de aprender tambien Back End y tener una mejor forma de trabajar.
           Me apasiona el desarrollo web y la programación.
           Soy una persona que siempre esta dispuesta a aprender nuevas tecnologias.
           Soy proactivo, trabajo bien en equipos, responsable y amable.
