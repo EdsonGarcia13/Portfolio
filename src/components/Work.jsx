@@ -3,6 +3,7 @@ import crud from '../assets/Crud.jpg';
 import weather from '../assets/weather.jpg';
 import landing from '../assets/landing.jpg';
 import quotes from '../assets/quotesaleatorio.jpg';
+import rick from '../assets/rick.jpg';
 
 const Work = () => {
   return (
@@ -65,6 +66,29 @@ const Work = () => {
               </div>
             </div>
           </div>
+          <div
+            style={{ backgroundImage: `url(${rick})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-2xl font-bold text-white tracking-wider'>
+                Consumo de API
+              </span>
+              <div className='pt-8 text-center'>
+                <a href='https://fervent-mestorf-567d9f.netlify.app/'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                    Demo
+                  </button>
+                </a>
+                {/* <a href='/'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                    Code
+                  </button>
+                </a> */}
+              </div>
+            </div>
+          </div>
             {/* Grid Item */}
           <div
             style={{ backgroundImage: `url(${landing})` }}
@@ -112,6 +136,7 @@ const Work = () => {
               </div>
             </div>
           </div>
+          
             {/* Grid Item */}
           <div
             style={{ backgroundImage: `url(${crud})` }}
