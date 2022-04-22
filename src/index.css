@@ -34,3 +34,12 @@
     margin-top: 100px;
     border-radius: 80%;
 }
+@media screen and (max-width: 650px) {
+    .perfil{
+        width: 100px;
+        height: 100px;
+        margin-top: 0px;
+        border-radius: 80%;
+    }
+}
+    
