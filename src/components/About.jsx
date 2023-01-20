@@ -17,13 +17,13 @@ const About = () => {
               <p>Hola que tal, te platico un poco sobre mi</p>
             </div>
             <div>
-              <p>Soy un apasionado de la tecnologia, ya que siempre me saca de la zona de confort por los retos 
-                que se aparecen a diario, que van desde la actualización a nuevos lenguajes de desarrollo, frameworks, etc."ya sabes a lo que me refiero", hasta 
-                el solucionar el bug que se presenta en una aplicación web.
-                Soy por lo que vez, bastante proactivo, con una gran capacidad de adaptación y de trabajo en equipo.
+              <p>Me gusta el desarrollo de software, en mis inicios me inclinaba por el front end, ya que tiene ese algo que te atrapa por el estilo de trabajo,
+                despues comenze a desarrollar apis en c# con .Net Core, "buenisimo la verdad" sin embargo la vida me fue llevando a trabajar con Java para el back end y
+                y asi fue como conoci Springboot, y pues me agrada el desarrollar, ya que siempre me saca de la zona de confort por los retos 
+                que se aparecen a diario, que van desde la actualización de versiones hasta el aprender nuevos frameworks, para migrar app.
+                Soy bastante proactivo, autodidacta y con una gran capacidad de adaptación al de trabajo en equipo, por ejemplo con metodolgias agiles.
                 En la vida no laboral, soy padre de familia y en mi tiempo libre me gusta estudiar, ver alguna pelicula con mi esposa,
                 ir a la congregación de mi religión y disfrutar de la buena comida.
-
                 </p>  
             </div>
           </div>
